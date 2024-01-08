@@ -1,0 +1,3 @@
+<GridLayout loaded="onLoaded">
+    <Image src="https://www.iconpacks.net/icons/3/free-no-image-icon-6663-thumb.png" tap="{{ onTap }}" width="100" height="100" />
+</GridLayout>
